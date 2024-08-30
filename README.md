@@ -5,7 +5,7 @@
 # Draughts Game
 
 ###
-Welcome ! This repository contains a checker game for use on the Numworks calculator emulator. To install the necessary libraries on you compurer, go [here](https://github.com/Archange-py/Visuel).
+Welcome ! This repository contains a checker game for use on the Numworks calculator emulator. To install the necessary libraries on you compurer, go [here](https://github.com/Archange-py/Visuel), in the section "How to use it".
 
 ## Table of Contents
 ***
