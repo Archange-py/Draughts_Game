@@ -1,13 +1,11 @@
 <p align="center" width="100%">
-<img src=".\pictures\game_of_life.jpg" alt="game_of_life">
+<img src=".\pictures\picture_dame.jpg" alt="draughts game">
 </p>
-
-The author of the image is Ioannis Mourginakis, available here: https://www.artstation.com/artwork/blLA2d
 
 # Draughts Game
 
 ###
-Welcome ! This directory contains an emulator for the Game of Life which you can use on your Numworks or computer to install the necessary libraries, go [here](https://github.com/Archange-py/Visuel). If you want to discover this subject you can explore the [Wikipédia page](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life).
+Welcome ! This repository contains a checker game for use on the Numworks calculator emulator. To install the necessary libraries on you compurer, go [here](https://github.com/Archange-py/Visuel).
 
 ## Table of Contents
 ***
@@ -17,13 +15,13 @@ Welcome ! This directory contains an emulator for the Game of Life which you can
 ## General Info
 ***
 ###
-This project includes two files: the Game of Life emulator, which you can download [here](https://my.numworks.com/python/archange/game_of_life) for the Numworks, and an example file that you can copy and paste into a python script on your calculator.
+It's a game with an intuitive graphical interface. It has a menu, allowing you to change the theme and other settings.  
+The arrow keys allow you to choose where you want to go. The enter key confirms the new box. If you've inadvertently chosen the wrong pawn, you can press the backspace key. The game continues until the end, unless you wish to quit by pressing the backspace key.
 
 ## Examples
 ***
 ###
-Here are a few examples of patterns that can be produced and simulate with it:
-
+Here are a few examples of the game:
 
 <table>
     <thead>
